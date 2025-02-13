@@ -1,3 +1,3 @@
-# UE_Game_As1
+# Coin_Villagers_1
 
 Assignment 1 for Unreal Engine
